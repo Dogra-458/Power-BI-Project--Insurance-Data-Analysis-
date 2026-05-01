@@ -137,10 +137,7 @@ Link
 - Analyze customer satisfaction through feedback sentiment scores
 
 ---
----
-## Snapshot of Power BI Report
-![Snapshot of Power BI Report](https://github.com/Dogra-458/Power-BI-Project--Insurance-Data-Analysis-/issues/1#issue-4365533311)
----
+
 
 ## 👤 Dogra-458
 
